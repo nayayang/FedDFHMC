@@ -1,0 +1,10 @@
+results/
+seed_results/
+
+*.asv
+*.autosave
+*.tmp
+*.log
+
+.DS_Store
+Thumbs.db
